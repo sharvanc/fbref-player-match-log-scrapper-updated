@@ -1,0 +1,7 @@
+Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,Prog,Succ,Att
+2022-10-09,Sun,Matchweek 10,Home,L 1–2,Everton,Manchester Utd,N,FW,15,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,0,0
+2022-10-15,Sat,Matchweek 11,Away,L 0–2,Everton,Tottenham,N,FW,25,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0
+2022-10-19,Wed,Matchweek 12,Away,L 0–1,Everton,Newcastle Utd,Y,FW,72,0,0,0,0,1,0,1,0,20,0,0,0,0.2,0.2,0.0,0,0,6,11,54.5,0,0,0
+2022-10-22,Sat,Matchweek 13,Home,W 3–0,Everton,Crystal Palace,Y,FW,77,1,0,0,0,1,1,0,0,26,1,0,1,0.2,0.2,0.0,3,1,10,16,62.5,0,2,3
+2022-10-29,Sat,Matchweek 14,Away,D 0–0,Everton,Fulham,Y,FW,90,0,0,0,0,1,0,0,0,29,0,0,0,0.5,0.5,0.0,0,0,11,20,55.0,1,1,1
+2022-11-05,Sat,Matchweek 15,Home,L 0–2,Everton,Leicester City,Y,FW,60,0,0,0,0,3,1,0,0,23,0,0,0,0.5,0.5,0.2,3,0,8,13,61.5,1,1,1
